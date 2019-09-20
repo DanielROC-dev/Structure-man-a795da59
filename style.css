@@ -1,0 +1,33 @@
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+th[scope="col"] {
+    background-color: #696969;
+    color: #fff;
+}
+
+th[scope="row"] {
+    background-color: #d7d9f2;
+	
+}
+
+caption {
+    padding: 10px;
+    caption-side: top;
+}
+
+table {
+  
+  width: 100%;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+ 
+}
+th {
+	border-style: groove;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
